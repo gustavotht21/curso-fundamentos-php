@@ -17,6 +17,7 @@ Este projeto tem por objetivo o salvamento remoto das anotações e aplicações
 ## 🖥️ Tecnologias utilizadas
 
 - ``PHP``
+= ``Laradock``
 
 ## 🛠️ Ferramentas utilizadas
 
